@@ -1,4 +1,5 @@
 aguacate
 onion
 jalapenos
+cilantro
 salt
